@@ -11,7 +11,7 @@
 
 - 📚 Formado em Técnico em Informática pelo Instituto Federal da Bahia (IFBA).
 - 🎓 Bacharelando em Ciência da Computação na Universidade Federal de Jataí (UFJ).
-- 💼 Procurando estágio/emprego na área de programação para ampliar conhecimentos e experiência.
+- 💼 Atualmente estagiando na faculdade desenvolvendo o site CoordenAI.
 - 🌱 Aprendendo mais sobre C, Java, Python, WEB(HTML, CSS, javascript).
 - 🔧 Possuo experiência em suporte e manutenção de computadores pelo Técnico em Informática.
 
@@ -23,29 +23,6 @@
 ## 💻 **Aplicações e dados**
 
 [![Skills](https://skillicons.dev/icons?i=java,python,c,html,css,js&theme=light)](https://skillicons.dev)
-
-## 😃 **Gostos e hobbys**
-
-📎 As imagens possuem links 📎
-<p float="left">
-  <a href="//www.hollowknight.com/"><img src="https://images.squarespace-cdn.com/content/v1/606d159a953867291018f801/1619987722169-VV6ZASHHZNRBJW9X0PLK/Key_Art_02_layeredjpg.jpg?format=1500w" width="100"/>
-  <a href="//www.chess.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_O--z05D11ER-KMzDmkN-K5sivxtbQT_L2w&s" width="97">
-  <a href="//store.steampowered.com/app/730/CounterStrike_2/?l=portuguese"><img src="https://seeklogo.com/images/C/csgo-logo-CAA0A4D48A-seeklogo.com.png" width="100">
-  <a href="//animesonlinecc.to/anime/haikyuu-hd/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSQTE1KzNKdDRRUJiTCF-GL8XjqRnTEUkmmg&s" width="97">
-  <a href="//mangananquim.site/ler-manga/solo-leveling/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCS-ZoynohCU1vRqaRLAaLR3LyHJnStZcwbA&s" width="97">
-</p>
-
-## 🔨 **Ferramentas de desenvolvimento**
-
-[![VSCode](https://skillicons.dev/icons?i=visualstudio,eclipse&theme=light)](https://skillicons.dev)
-
-<br/>
-
-<a href="https://github.com/TiozinDoPicole" title="Perfil do Gustavo Fé">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiozinDoPicole&theme=tokyonight&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiozinDoPicole&layout=compact&langs_count=7&theme=radical"/>
-</a>
-
 
 
 ## Meus perfis
