@@ -15,10 +15,6 @@
 - 🌱 Aprendendo mais sobre C, Java, Python, WEB(HTML, CSS, javascript).
 - 🔧 Possuo experiência em suporte e manutenção de computadores pelo Técnico em Informática.
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/c067f7af-284e-49c2-b76c-d4d368e4b027" width="50%">
-
-
 
 ## 💻 **Aplicações e dados**
 
